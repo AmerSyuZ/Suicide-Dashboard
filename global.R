@@ -17,6 +17,7 @@ library(rgeos)
 library(ggspatial)
 library(rworldmap)
 library(shinycssloaders)
+library(tidyverse)
 
 
 #Data preparation
