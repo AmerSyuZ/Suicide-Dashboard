@@ -1,0 +1,13 @@
+name: SUICIDE_DASHBOARD
+title: SUICIDE_DASHBOARD
+username:
+account: amersyu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4262989
+bundleId: 4709246
+url: https://amersyu.shinyapps.io/SUICIDE_DASHBOARD/
+when: 1623521362.89895
+lastSyncTime: 1623521362.89895
+asMultiple: FALSE
+asStatic: FALSE
